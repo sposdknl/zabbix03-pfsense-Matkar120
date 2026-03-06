@@ -1,0 +1,1 @@
+- Během práce jsem měl pernamentní problémy s PfSense vagrantem, zkoušel jsem i různé vydání a po chvíli jsem to prostě vzdal. Tudíž mi chybí pár úkolů a za to se omlouvám.
